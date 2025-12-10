@@ -29,7 +29,7 @@
 ### Tools
 <div id="header" align='left'> 
     <img src="https://github.com/ChromeDevTools/devtools-logo/blob/master/logos/svg/chrome-devtools-square-responsive.svg" alt="chromedevtools" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="50" height="50"/>
+    <img src="https://img.icons8.com/color/1200/jira.jpg" alt="jira" width="50" height="50"/>
     <img src="https://github.com/DianaRazyapova/DianaRazyapova/assets/115238502/a908d9ed-b29f-49c1-9de8-77e89c360fb1" alt="charlesproxy " width="50" height="50"/>
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="50" height="50"/>
