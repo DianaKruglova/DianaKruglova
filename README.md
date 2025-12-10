@@ -4,17 +4,17 @@
       <a href="https://www.linkedin.com/in/diana-razyapova/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
-      <a href="https://t.me/dianarazyapova_qa">
+      <a href="https://t.me/dianakruglova_qa">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
       </a>
-      <a href="https://wa.me/79964011474">
+      <a href="https://wa.me/79961002112">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
       </a>
 </div>
 
 ### About me 
-- :page_facing_up: Мое резюме на площадках [CV](https://drive.google.com/file/d/1zw4ITeseMsj42vvxDAwv-nbt5xhPI2Br/view?usp=sharing), [Habr Career](https://career.habr.com/dianarazyapova), [HeadHunter](https://ufa.hh.ru/resume/e7bb7d15ff0cdf59de0039ed1f5a3841506276)  
-- :envelope: **diana.razyapova.qa@gmail.com**
+- :page_facing_up: Мое резюме на площадках [CV](), [Habr Career](), [HeadHunter]()  
+- :envelope: **kruglova.diana.qa@gmail.com**
 
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
